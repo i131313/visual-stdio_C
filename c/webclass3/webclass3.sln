@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "webclass3", "webclass3\webclass3.vcxproj", "{95DF8B2C-187E-4E0C-995B-DF2751444651}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95DF8B2C-187E-4E0C-995B-DF2751444651}.Debug|Win32.ActiveCfg = Debug|Win32
+		{95DF8B2C-187E-4E0C-995B-DF2751444651}.Debug|Win32.Build.0 = Debug|Win32
+		{95DF8B2C-187E-4E0C-995B-DF2751444651}.Release|Win32.ActiveCfg = Release|Win32
+		{95DF8B2C-187E-4E0C-995B-DF2751444651}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

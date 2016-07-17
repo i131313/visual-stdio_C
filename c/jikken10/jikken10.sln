@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "jikken10", "jikken10\jikken10.vcxproj", "{DF0ADF01-6403-4389-8C21-A3C624F9ACFD}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "jikken_stak", "jikken_stak\jikken_stak.vcxproj", "{60D8DE56-127E-4EDD-BE5A-C2CF4961934C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF0ADF01-6403-4389-8C21-A3C624F9ACFD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DF0ADF01-6403-4389-8C21-A3C624F9ACFD}.Debug|Win32.Build.0 = Debug|Win32
+		{DF0ADF01-6403-4389-8C21-A3C624F9ACFD}.Release|Win32.ActiveCfg = Release|Win32
+		{DF0ADF01-6403-4389-8C21-A3C624F9ACFD}.Release|Win32.Build.0 = Release|Win32
+		{60D8DE56-127E-4EDD-BE5A-C2CF4961934C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{60D8DE56-127E-4EDD-BE5A-C2CF4961934C}.Debug|Win32.Build.0 = Debug|Win32
+		{60D8DE56-127E-4EDD-BE5A-C2CF4961934C}.Release|Win32.ActiveCfg = Release|Win32
+		{60D8DE56-127E-4EDD-BE5A-C2CF4961934C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

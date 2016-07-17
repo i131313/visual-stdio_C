@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "struct", "struct\struct.vcxproj", "{28B772F2-782D-474B-BD70-EE1AF00A06E1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "struct02", "struct02\struct02.vcxproj", "{1D60218F-48AA-4877-B9D1-FFC1468191F0}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "struct03", "struct03\struct03.vcxproj", "{46E17B72-BAA0-466F-9386-9E8F0B19BAAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28B772F2-782D-474B-BD70-EE1AF00A06E1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{28B772F2-782D-474B-BD70-EE1AF00A06E1}.Debug|Win32.Build.0 = Debug|Win32
+		{28B772F2-782D-474B-BD70-EE1AF00A06E1}.Release|Win32.ActiveCfg = Release|Win32
+		{28B772F2-782D-474B-BD70-EE1AF00A06E1}.Release|Win32.Build.0 = Release|Win32
+		{1D60218F-48AA-4877-B9D1-FFC1468191F0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1D60218F-48AA-4877-B9D1-FFC1468191F0}.Debug|Win32.Build.0 = Debug|Win32
+		{1D60218F-48AA-4877-B9D1-FFC1468191F0}.Release|Win32.ActiveCfg = Release|Win32
+		{1D60218F-48AA-4877-B9D1-FFC1468191F0}.Release|Win32.Build.0 = Release|Win32
+		{46E17B72-BAA0-466F-9386-9E8F0B19BAAC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{46E17B72-BAA0-466F-9386-9E8F0B19BAAC}.Debug|Win32.Build.0 = Debug|Win32
+		{46E17B72-BAA0-466F-9386-9E8F0B19BAAC}.Release|Win32.ActiveCfg = Release|Win32
+		{46E17B72-BAA0-466F-9386-9E8F0B19BAAC}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

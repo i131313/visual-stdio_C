@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mem", "mem\mem.vcxproj", "{A9A2BB1E-F6FE-4A5F-9772-99C38832CFBA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mem02", "mem02\mem02.vcxproj", "{7DCA0F81-9C6F-4760-97F8-3EE4F8D48E0F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mem03", "mem03\mem03.vcxproj", "{EE741744-7154-4F76-AED7-5DAA66CCEEC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9A2BB1E-F6FE-4A5F-9772-99C38832CFBA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A9A2BB1E-F6FE-4A5F-9772-99C38832CFBA}.Debug|Win32.Build.0 = Debug|Win32
+		{A9A2BB1E-F6FE-4A5F-9772-99C38832CFBA}.Release|Win32.ActiveCfg = Release|Win32
+		{A9A2BB1E-F6FE-4A5F-9772-99C38832CFBA}.Release|Win32.Build.0 = Release|Win32
+		{7DCA0F81-9C6F-4760-97F8-3EE4F8D48E0F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7DCA0F81-9C6F-4760-97F8-3EE4F8D48E0F}.Debug|Win32.Build.0 = Debug|Win32
+		{7DCA0F81-9C6F-4760-97F8-3EE4F8D48E0F}.Release|Win32.ActiveCfg = Release|Win32
+		{7DCA0F81-9C6F-4760-97F8-3EE4F8D48E0F}.Release|Win32.Build.0 = Release|Win32
+		{EE741744-7154-4F76-AED7-5DAA66CCEEC8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EE741744-7154-4F76-AED7-5DAA66CCEEC8}.Debug|Win32.Build.0 = Debug|Win32
+		{EE741744-7154-4F76-AED7-5DAA66CCEEC8}.Release|Win32.ActiveCfg = Release|Win32
+		{EE741744-7154-4F76-AED7-5DAA66CCEEC8}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

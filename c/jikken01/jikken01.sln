@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "jikken01", "jikken01\jikken01.vcxproj", "{3FDCEEA6-B36D-448F-B321-EA309C5EDBC9}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Euclid", "Euclid\Euclid.vcxproj", "{A772F485-7713-487E-B6D4-BCFEACC05CD3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "monte", "monte\monte.vcxproj", "{B6061055-E8DF-4809-96CF-1373E09E5774}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FDCEEA6-B36D-448F-B321-EA309C5EDBC9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3FDCEEA6-B36D-448F-B321-EA309C5EDBC9}.Debug|Win32.Build.0 = Debug|Win32
+		{3FDCEEA6-B36D-448F-B321-EA309C5EDBC9}.Release|Win32.ActiveCfg = Release|Win32
+		{3FDCEEA6-B36D-448F-B321-EA309C5EDBC9}.Release|Win32.Build.0 = Release|Win32
+		{A772F485-7713-487E-B6D4-BCFEACC05CD3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A772F485-7713-487E-B6D4-BCFEACC05CD3}.Debug|Win32.Build.0 = Debug|Win32
+		{A772F485-7713-487E-B6D4-BCFEACC05CD3}.Release|Win32.ActiveCfg = Release|Win32
+		{A772F485-7713-487E-B6D4-BCFEACC05CD3}.Release|Win32.Build.0 = Release|Win32
+		{B6061055-E8DF-4809-96CF-1373E09E5774}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B6061055-E8DF-4809-96CF-1373E09E5774}.Debug|Win32.Build.0 = Debug|Win32
+		{B6061055-E8DF-4809-96CF-1373E09E5774}.Release|Win32.ActiveCfg = Release|Win32
+		{B6061055-E8DF-4809-96CF-1373E09E5774}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

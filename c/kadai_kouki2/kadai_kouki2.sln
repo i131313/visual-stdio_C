@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "kadai_kouki2", "kadai_kouki2\kadai_kouki2.vcxproj", "{9DD22418-1E3F-4301-BDBD-6F88875F09BA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "kouki2_2", "kouki2_2\kouki2_2.vcxproj", "{BCC616D0-E092-4304-85EE-A68932A5D811}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "kouki2_3", "kouki2_3\kouki2_3.vcxproj", "{4F714927-9351-4E5F-B77A-9E556270CC49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DD22418-1E3F-4301-BDBD-6F88875F09BA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9DD22418-1E3F-4301-BDBD-6F88875F09BA}.Debug|Win32.Build.0 = Debug|Win32
+		{9DD22418-1E3F-4301-BDBD-6F88875F09BA}.Release|Win32.ActiveCfg = Release|Win32
+		{9DD22418-1E3F-4301-BDBD-6F88875F09BA}.Release|Win32.Build.0 = Release|Win32
+		{BCC616D0-E092-4304-85EE-A68932A5D811}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BCC616D0-E092-4304-85EE-A68932A5D811}.Debug|Win32.Build.0 = Debug|Win32
+		{BCC616D0-E092-4304-85EE-A68932A5D811}.Release|Win32.ActiveCfg = Release|Win32
+		{BCC616D0-E092-4304-85EE-A68932A5D811}.Release|Win32.Build.0 = Release|Win32
+		{4F714927-9351-4E5F-B77A-9E556270CC49}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4F714927-9351-4E5F-B77A-9E556270CC49}.Debug|Win32.Build.0 = Debug|Win32
+		{4F714927-9351-4E5F-B77A-9E556270CC49}.Release|Win32.ActiveCfg = Release|Win32
+		{4F714927-9351-4E5F-B77A-9E556270CC49}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
